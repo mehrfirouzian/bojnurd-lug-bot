@@ -3,6 +3,7 @@
 
 # what I need?
 python3-pip - it may installed already, if so you don't have it: <code> #sudo apt install python3-pip </code>
+
 python-telegram package - install it by <code> #pip3 install python-telegram-bot </code>
 
 # How to run it?
