@@ -1,8 +1,12 @@
 # bojnurd-lug-bot
 از اون جایی که لاگ متعلق به یک فرد خاص نیست پس باید همه برای امکانات ربات تصمیم بگیرند. پس هر قابلیت بات پس از مورد قبول واقع شدن توسط اعضا به ربات اضافه خواهد شد.
 
+# what I need?
+python3-pip - it may installed already, if so you don't have it: <code> #sudo apt install python3-pip </code>
+python-telegram package - install it by <code> #pip3 install python-telegram-bot </code>
+
 # How to run it?
-simply make a .py file in project directory, then put these in the file
+then, simply make a .py file in project directory, then put these in the file
 
 <pre>
 from bot import Bot
